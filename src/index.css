@@ -440,7 +440,8 @@ a.action_container:link {
 
 /* Create product page css */
 .create-product{
-  width:80%;
+  width:70%;
   margin: auto;
   margin-top: 50px;
+  margin-bottom: 50px;
 }

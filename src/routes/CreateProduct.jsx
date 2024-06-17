@@ -119,7 +119,7 @@ const CreateProduct = () => {
   return (
     <>
       {data ? (
-        <form className="create-post" onSubmit={handleSubmit}>
+        <form className="create-product" onSubmit={handleSubmit}>
           <div className="mb-3">
             <label htmlFor="title" className="form-label">
               Product Title
