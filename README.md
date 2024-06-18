@@ -5,7 +5,7 @@
 Myntra is a e-commerce website where you can buy clothes, shoes etc. This project is a clone of Myntra website. This project is built using React, Redux, React-Router, Hooks, API, CSS, HTML.
 
 ## Demo
-
+### https://react-ecommerce-sandy.vercel.app/
 
 ## Tech Stack
 
@@ -20,10 +20,13 @@ Myntra is a e-commerce website where you can buy clothes, shoes etc. This projec
 ## Features
 
 - [x] Header
+- [x] Footer
 - [x] Sort 
 - [x] Bag
 - [x] Product Details 
-- [x] Footer
+- [x] Delete Product
+- [x] Edit Product
+- [x] Add Product
 - [x] Responsive 
 
 ## Project Structure
@@ -68,7 +71,37 @@ Myntra is a e-commerce website where you can buy clothes, shoes etc. This projec
 - vite.config.js
 ```
 
-# React + Vite
+## Project setup
+
+```bash
+npm create vite@latest
+npm install
+```
+
+## Compiles and hot-reloads for development
+
+```
+npm run dev
+```
+
+## Compiles and minifies for production
+
+```
+npm run build
+```
+
+## Run your server
+
+```
+npm start
+```
+
+## Author
+
+[Anshu Kumar](https://github.com/anshuKumar99)
+
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
